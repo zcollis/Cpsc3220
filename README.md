@@ -1,2 +1,3 @@
 # Cpsc3220
-Code for projects from Operating Systems course
+
+Implemented a First-Come First-Serve reader/writer synchronization lock using only semaphores.
